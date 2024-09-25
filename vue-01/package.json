@@ -1,0 +1,29 @@
+{
+  "name": "vue-01",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "element-plus": "^2.8.3",
+    "mockjs": "^1.1.0",
+    "pinia": "^2.1.7",
+    "qs": "^6.13.0",
+    "vite-plugin-mock": "^2.9.6",
+    "vue": "^3.4.29",
+    "vue-router": "^4.3.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "msw": "^2.4.9",
+    "sass": "^1.79.3",
+    "unplugin-auto-import": "^0.18.3",
+    "unplugin-vue-components": "^0.27.4",
+    "vite": "^5.3.1"
+  }
+}
